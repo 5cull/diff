@@ -1,2 +1,6 @@
 ##learning branch
+<<<<<<< HEAD
 ##happend?
+=======
+## edited something
+>>>>>>> a2a85de00a3c94c087f5bb0119a7c52d342dff1d
